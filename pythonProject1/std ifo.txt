@@ -1,0 +1,10 @@
+student no 01	score: 23	grade: B
+student no 02	score: 22	grade: B
+student no 03	score: 25	grade: A
+student no 04	score: 26	grade: A
+student no 05	score: 19	grade: F
+student no 06	score: 28	grade: A+
+student no 001	score: 23	grade: B
+student no 002	score: 25	grade: A
+student no 003	score: 28	grade: A+
+student no 004	score: 20	grade: B

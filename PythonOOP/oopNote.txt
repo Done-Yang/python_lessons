@@ -1,0 +1,15 @@
+OOP: Object Oriented Programming
+
+Kinds of Method: 
+	1. Instance Method:
+		use instance valiable
+	2. Class Method:
+		Decorator Function
+	3. Static Method:
+
+Python OOP is class instance
+Object: Property and Action
+
+Recursive function: is function call function
+Recursive function = Loop
+

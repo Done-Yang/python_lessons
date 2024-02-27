@@ -1,0 +1,9 @@
+PHP
+
+html tag
+php tag
+command php
+whitespace (\t: tab)
+comment: 
+
+

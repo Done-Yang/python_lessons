@@ -1,0 +1,49 @@
+- <?php ?>
+- echo: can be content many field
+- print: just a single field
+- php is case sensitive
+- @global: call the global variable in use in function
+- Data type=(string, integer, flaot,booleans, null, array)
+- define(): constants are globle variable; structure: define("variable_name", "value", "incasesensitive'default:true'")
+- Operators=
+	===: indentical "will return the true if the value and data type of variable equal each and return the data type of them"
+	!==: not identical "return true if the value and data type is different"
+	<> or !=: not equal
+	. : concatination string
+	.=: concatination and assignment
+	<=>: saceship if x > y return 1, if x = y return 0, if x < y return -1
+	xor = or: 
+- if (conditions) {}elif(){}esel{}: if_elif_else
+- switch(conditions){
+	case condition1:
+		statement;
+	break;
+	              :
+	}
+- while(codition) {}
+- do { 
+           code execute;
+         }while(condition);
+- for($x = 0; $x <= 10; $x++){
+	code execute;
+	}
+- foreach($array as $value) {		:use to loop the array by using the value variable to execute in the scope
+	$value;
+	}
+- function function_name(prameter) {}
+ - $variable = array(value1, value2, ....);  :Index Arrays
+- $variable = array(key1 => value1,  key2 => value2, .......);  :Associative Arrays
+- $variable = array(				              :mutiple array
+		array(value1, value2, ...),
+		array(value1, value2, ...),
+			:
+		);
+- php supergloble variable:
+	$GLOBLES["variable"]: call the globle variable inuse
+	$_SEVER["variable"]: able to call the server variable inuse it will show the server detial by call the server variable name
+	$_REQUEST['variable']: to call the globle variable inuse
+	$_GET['variable']: to call the variable from url to use"when method get it will show all detial of form in the URL"
+	$_POST['variable']: to call the varianle from form inuse"method post just show only the path or file name in the URL"
+	include('path'): to include another file to use in curent file
+	
+	
